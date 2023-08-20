@@ -1,6 +1,7 @@
 {
     "name": "jpcaparas/randopedia",
     "description": "Fetch random articles from Wikipedia",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
